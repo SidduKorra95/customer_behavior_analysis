@@ -1,5 +1,5 @@
 
-# 📊 Data Analytics Project
+# 📊 Customer Behavior Data Analyst Project
 
 ## 🔍 Overview
 
