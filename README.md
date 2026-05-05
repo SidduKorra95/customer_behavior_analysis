@@ -88,8 +88,8 @@ The Power BI dashboard includes:
 1. **Clone the repository**
 
    ```bash
-   git clone <>
-   cd <project-folder>
+   git clone <https://github.com/SidduKorra95/customer_behavior_analysis.git>
+   cd <customer_behavior_analysis>
    ```
 
 2. **Install required libraries**
@@ -104,10 +104,10 @@ The Power BI dashboard includes:
 
    ```python
    username = "root"
-   password = "your_password"
+   password = ""
    host = "localhost"
    port = "3306"
-   database = "your_database"
+   database = "customer_behavior"
    ```
 
 4. **Run Jupyter Notebook**
